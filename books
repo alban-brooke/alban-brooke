@@ -1,0 +1,28 @@
+<!DOCTYPE html><html><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>alban's website</title>
+   <style type="text/css">
+    body {
+      margin:40px auto;
+      max-width:650px;
+      line-height:1.4;
+      font-size:18px;
+      color:#444;
+      padding:0 10px
+    }
+    h1,h2,h3 {
+      line-height:1.2
+    }
+  </style>
+  </head>
+  <body>
+    <h1>Books</h1>
+    <p>If I'm going to have more than one blog post every few three months, I'll probably have to post about the books I'm reading. Here are the books I've read in 2019:</p>
+      <ul>
+        <li>Atomic Habits, by James Clear</li>
+        <li>A Land Remembered, by Patrick D. Smith</li>
+        <li>The Power of Habit, by Charles Duhigg</li>
+        <li><span style="background-color: #FFFFE0">Mountains Beyond Mountains</span>, by Tracy Kidder</li>
+      </ul>
+  </body>
